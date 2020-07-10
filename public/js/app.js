@@ -1,5 +1,5 @@
 
-console.log('Client side js file is loaded')
+//console.log('Client side js file is loaded')
 
 
 //const { response } = require("express")
